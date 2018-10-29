@@ -1,2 +1,4 @@
 # Practical-Machine-Learning-Project
-Will edit it later
+Peer-graded Assignment: Prediction Assignment Writeup
+1- Rmd file
+2- html file
